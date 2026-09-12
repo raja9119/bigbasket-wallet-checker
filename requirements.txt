@@ -1,5 +1,5 @@
+aiogram
 curl_cffi
 python-dotenv
+aiohttp
 requests
-telebot
-pyTelegramBotAPI
